@@ -30,4 +30,3 @@ for (let i = 0; i < orders.length; i++) {
 
 console.log('Outstanding:', outstanding);
 console.log('Delivered:', delivered);
-  
