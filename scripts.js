@@ -1,5 +1,4 @@
 // script.js
-
 const order1 = document.querySelector('[data-key="order1"]');
 const order2 = document.querySelector('[data-key="order2"]');
 const order3 = document.querySelector('[data-key="order3"]');
